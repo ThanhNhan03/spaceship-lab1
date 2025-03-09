@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 1327955406782850943}
   - component: {fileID: 6595180088575263845}
   - component: {fileID: 5270035016500103400}
-  m_Layer: 6
-  m_Name: Projecttile
+  m_Layer: 7
+  m_Name: Projecttile 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4edb9b54c4c7ca64a825a26b0c244011, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9339623, g: 0.039649326, b: 0.09267948, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

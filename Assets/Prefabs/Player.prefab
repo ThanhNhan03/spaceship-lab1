@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7354668724733674117}
   - component: {fileID: 4055285299526172815}
   - component: {fileID: 7154554913559035470}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ MonoBehaviour:
   isPlayer: 1
   health: 50
   score: 0
-  hitEffect: {fileID: 0}
+  hitEffect: {fileID: 8503272965454256792, guid: b15eb2c359ab50248a18f66e70416afd, type: 3}
   applyCameraShake: 1
 --- !u!114 &5034431587038762324
 MonoBehaviour:
@@ -177,7 +177,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
