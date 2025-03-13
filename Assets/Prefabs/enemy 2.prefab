@@ -81,7 +81,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7918611600151554992, guid: 85320439e5c99904ba0fb305f56e01f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -135,7 +135,7 @@ MonoBehaviour:
   projectileLifetime: 5
   baseFiringRate: 0.2
   useAI: 1
-  firingRateVariance: 0.5
+  firingRateVariance: 2
   minimumFiringRate: 0.1
   isFiring: 0
 --- !u!114 &8097782168102809377
